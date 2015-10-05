@@ -1,5 +1,5 @@
 install.packages("vcd") # install package for mosaicplots
-instll.packages("gmodels") # install package for crosstabs
+install.packages("gmodels") # install package for crosstabs
 library(vcd) #load package for mosaicplots
 library(gmodels) # load package for crosstabs
 
